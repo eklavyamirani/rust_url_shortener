@@ -1,0 +1,1 @@
+A url shortener project to start learning rust.
