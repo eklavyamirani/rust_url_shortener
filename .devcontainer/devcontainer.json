@@ -21,8 +21,9 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "cargo install cargo-edit",
-
+	//"postCreateCommand": "cargo install cargo-edit",
+	
+	"onCreateCommand": "cargo install cargo-edit",
 	// Configure tool-specific properties.
 	// "customizations": {},
 
